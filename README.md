@@ -1,6 +1,9 @@
-<p align="center">
-    # easy-mock数据接口
-</p>
+<div align="center">
+  
+#  easy-mock数据接口
+
+</div>
+
 
 > 说明:  由于eask-mock访问量过大,总是出现无法访问或者不安全链接等等神奇的操作,=-=,[原官网](https://www.easy-mock.com/),所以我只好自己踩坑去安装easy-mock数据接口,期间内也是遇到了很多神奇的问题,**!竟然要求node版本是8.^.版本!**,这可是很古老了,然后又去学习和安装了[nvm](https://www.jianshu.com/p/0ffa636a6fe1),反正一大堆坑!!!
 
@@ -22,6 +25,8 @@
 
 
 
-###### 如果还有bug和建议,欢迎告诉我  (͏ ˉ ꈊ ˉ)✧˖°
+###### 如果网站访问不了,或者自己搭建的时候遇到了坑,欢迎交流  (͏ ˉ ꈊ ˉ)✧˖°
 
-![sh](https://studyit.club/Study/qq.jpg)
+qq: 2662419405
+
+wx: 18445623027
