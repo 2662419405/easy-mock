@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 #  easy-mock数据接口
 
 </div>
@@ -10,6 +10,10 @@
 
 
 **关于如何使用mock数据,请查看 [mockjs](http://mockjs.com/)**
+
+
+
+**首次访问可能过慢,但是使用的时候不会出现问题,本人用axios试过请求,很快**
 
 
 
