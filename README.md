@@ -11,24 +11,30 @@
 
 
 
-**首次访问可能过慢,但是使用的时候不会出现问题,本人用axios试过请求,很快**
+## 自己如何安装?
 
+1. 安装node (版本>11)  参考 -> [菜鸟教程](https://www.runoob.com/nodejs/nodejs-install-setup.html)
 
+2. 安装redis -> [菜鸟教程](https://www.runoob.com/redis/redis-install.html)
 
-**请勿灌水大量无用账号**
+3. 安装mongod -> [菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)
 
+4. 保证redis和mongod在后台运行中
 
+5. ` git clone https://github.com/2662419405/easy-mock.git `
 
-**保证人在,数据在,除特殊情况外,服务器不会挂掉**
+6. `cd eacy-mock && npm i `
 
+7. `npm run build`
 
+8. 如果没有pm2,需要先安装pm2  ->    `npm i -g pm2`
 
-> 补充: 网站不是个人所写,属于[easy-mock](https://github.com/easy-mock/easy-mock),本人只是自己搭建了服务器,快速开发前端
+   `NODE_ENV=production pm2 start app.js`
 
+<img src="https://cdn.jsdelivr.net/gh/2662419405/imgPlus/Snipaste_2020-01-13_14-44-15.png" />
 
+9. 在7300端口上面就可以访问了 -> [本人的Easy-mock](http://shtodream.cn:7300/)
 
-###### 如果网站访问不了,或者自己搭建的时候遇到了坑,欢迎交流  (͏ ˉ ꈊ ˉ)✧˖°
+<img src="https://cdn.jsdelivr.net/gh/2662419405/imgPlus/Snipaste_2020-01-13_14-49-55.jpg" />
 
-qq: 2662419405
-
-wx: 18445623027
+**有问题欢迎留言**
