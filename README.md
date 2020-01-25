@@ -24,7 +24,7 @@
 
 5. ` git clone https://github.com/2662419405/easy-mock.git `
 
-6. `cd eacy-mock && npm i `
+6. `cd easy-mock && npm i `
 
 7. `npm run build`
 
