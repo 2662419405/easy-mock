@@ -34,7 +34,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/2662419405/imgPlus/Snipaste_2020-01-13_14-44-15.png" />
 
-9. 在7300端口上面就可以访问了 -> [本人的Easy-mock](http://shtodream.cn:7300/)
+9. 在7300端口上面就可以访问了 -> [本人的Easy-mock](http://mock.sunhang.top/)
 
 <img src="https://cdn.jsdelivr.net/gh/2662419405/imgPlus/Snipaste_2020-01-13_14-49-55.jpg" />
 
