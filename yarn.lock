@@ -8362,9 +8362,9 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vm2@^3.5.2:
-  version "3.5.2"
-  resolved "http://registry.npm.taobao.org/vm2/download/vm2-3.5.2.tgz#6ae7c75a867775946e1d4a66623374e0245150e0"
+vm2@^3.9.4:
+  version "3.9.4"
+  resolved "https://registry.yarnpkg.com/vm2/-/vm2-3.9.4.tgz#2e118290fefe7bd8ea09ebe2f5faf53730dbddaa"
 
 vue-hot-reload-api@^2.2.0:
   version "2.3.0"
